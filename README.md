@@ -3,7 +3,7 @@ Earnings call sentiment analysis and text extraction
 
 The Earnings_Bot.py script is used to perform sentiment analysis on earnings call transcripts from seekingalpha.com.
 Copy and paste the URL into the GUI box and click search. A text file will be written to the same folder, containing the 
-overall sentiment score, revenue/eps snapshot, and all sentences containing the keywords provided.
+overall sentiment score, a revenue/eps snapshot, and all sentences containing the keywords provided.
 
 The current positive and negative words were taken from Forbes.com (link below)
 https://www.forbes.com/sites/katinastefanova/2015/12/21/50-words-in-earnings-reports-that-mean-a-plumeting-stock-price/#48a3e18d6ac9
