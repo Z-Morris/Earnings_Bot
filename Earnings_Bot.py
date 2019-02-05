@@ -89,7 +89,7 @@ def gui_data():
     Margin_data = str(margindata).strip().replace('. ', '.\n')
 
     ## all strings containing keyword4 data
-    epsdata = [s+'. ' for s in clean.lower().split('. ') if keyword4 in s]
+    epsdata = [s+'. ' for s in clean.split('. ') if keyword4 in s]
     epsdata = ''.join(epsdata)
     epsdata = str(epsdata).strip().replace('. ', '.\n\n')
     EPS_data = epsdata
