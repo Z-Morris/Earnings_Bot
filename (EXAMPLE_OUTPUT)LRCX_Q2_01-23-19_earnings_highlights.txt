@@ -1,0 +1,206 @@
+
+Lam Research Corporation (NASDAQ:LRCX)
+Q2 2019 Earnings Conference Call
+January 23, 2019  5:00 PM ET
+
+EPS  of $3.87 beat by $0.21
+Revenue of $2.52B (-2.3%) beat by $20.00M
+
+
+
+
+Revenue Data:
+
+
+Most recently I has been charged with driving company-wide business results as the CEO of Lam since the time of the merger with Novellus.
+ 
+During this period from calendar 2013 to 2018 we grew revenue by 2.7 times and increased earnings per share two times faster than the increase in revenue.
+We also completed the strongest calendar year in the history of the company with $10.871 billion in revenues a 14% year-on-year increase at the same time we delivered growth in EPS of 27% and an increase in operating cash flows of more than 50% from the prior calendar year.
+Our strategy focuses along three primary vectors: expanding the size of our served available markets gaining market share in the segments in which we compete and increasing the recurring revenue stream we derived from our installed base.
+Our R&D investments are squarely focused on achieving our vision of best-in-class products everywhere we compete.
+ 
+Turning now to revenue derived from our expanding installed base our customer support business group delivered another record year.
+Installed base revenue growth exceeded installed base unit growth again in 2018 with installed base units in the field ending the year at roughly 56000 chambers.
+And in return we are building a strong recurring revenue stream for Lam.
+ 
+2019 is shaping up to be another solid year for our customer support business group and our progress remains aligned with the long-term growth objectives communicated to the investment community early last year.
+In closing the business environment is more challenging than just a few quarters ago but we are committed to delivering on our multidimensional growth strategy and at the same time responding to near-term revenue trends through a strong focus on operational efficiency.
+Lam delivered solid performance in the December quarter with our results exceeding the midpoint of guidance for all financial metrics.
+ 
+Operating margin and earnings per share exceeded the high end of the guidance range provided mainly due to our proactive management of our operating expenses.
+ 
+Overall memory revenue increased slightly from the September quarter with the combined Memory segment making up 79% of total system revenue.
+NAND volume and memory revenue drove the increase in the Memory segment and it represented approximately 55% of system revenue.
+NAND investments were driven primarily by conversions to higher layer cut wafers.
+ 
+DRAM represented 24% of system revenue in the December quarter which was roughly flat with the prior quarter.
+The foundry segment declined quarter-over-quarter accounting for 13% of system revenue mainly due to reduced China foundry investments.
+The logic and other segment was up slightly contributing 8% of system revenue.
+ 
+From an industry perspective Tim discussed our view of 2019 WFE.
+We delivered revenues of $2.523 billion in the December quarter.
+We are expecting revenue of $2400000000 plus or minus a $150 million.
+So if I could just assume that they flat which I wonder that it will given that UV’s ramping that implies that revenue kind of like is flat throughout the rest of the year from this level.
+And then Doug I had a question on deferred revenue.
+So my question is how much more can you draw down deferred revenue? Because obviously it sounds like if you give a shipments in March it will be lower than $2.4 billion.
+But where does that number – where does that $493 million worth of deferred revenue? Where does that bottom out? Thanks.
+ 
+
+
+Doug Bettinger
+
+
+ 
+Yes I think I’ve described it Tim in the past.
+So Doug so I mean shipments are about equal to revenue for March is that right?
+ 
+
+
+Doug Bettinger
+
+
+ 
+Yes.
+I’m just kind of curious is that because you expect March to be the low point in revenue? Are there mix drivers that helped gross margin going forward?
+ 
+
+
+Doug Bettinger
+
+
+ 
+I always say John there’s a variety of different things that impact gross margin.
+So that’s a focus of mine and I think it provides a very important revenue stream for the company long-term.
+ 
+
+
+Harlan Sur
+
+
+ 
+Yes thanks for the insights.
+ 
+
+
+Tim Archer
+
+
+ 
+Yes.
+Over the next three to five years how do you see the revenue growth rate? Is this a 10% type of growth business? Or do you see a higher to get to that incremental billion dollars you talked about?
+ 
+
+
+Tim Archer
+
+
+ 
+Well I guess – yes so you recall the billion-dollar number.
+At the Investor Day we said that the installed base business was approximately 25% of our total revenue.
+I will start off with a clarification you said revenue will be first halfway weighted in 2019.
+Is that an expectation for your revenue or is it for the industry?
+ 
+
+
+Doug Bettinger
+
+
+ 
+No it was a statement Sidney around WFE.
+I didn’t say anything relative to Lams revenue.
+
+
+
+Expense Data:
+
+Lam delivered solid performance in the December quarter with our results exceeding the midpoint of guidance for all financial metrics.
+ 
+Operating margin and earnings per share exceeded the high end of the guidance range provided mainly due to our proactive management of our operating expenses.
+ 
+Overall memory revenue increased slightly from the September quarter with the combined Memory segment making up 79% of total system revenue.
+And we expect to see variability quarter-to-quarter.
+ 
+Operating expenses in the quarter came in at $440 million slightly down from the operating expense level in the September quarter.
+Worth noting I think we decreased our operating expenses for the first half of 2018 to the second half by approximately $100 million as we managed spending relative to the software business environment.
+ 
+R&D comprised nearly two thirds of our total spending consistent with the composition of spending in the previous two quarters.
+Our inventory levels decreased and consistent with our expectations inventory turns increased to 3.2 times which was an improvement from 2.7 times in the prior quarter.
+ 
+Company noncash expenses included approximately $39 million for equity comp $36 million for amortization and $46 million for depreciation.
+ 
+Capital expenditures came in at $106 million in the December quarter which was an increase of $56 million from September.
+March spending is expected to be higher in cost of goods sold as well as operating expenses as a result of the extra work week.
+Your operating expense is obviously much lower than what you guided for the December quarter understanding March is an extra week should we think about June quarter kind of go back to the December level or is it just something higher than that?
+ 
+
+
+Doug Bettinger
+
+
+ 
+Yes I’m not going to guide it beyond the current quarter Sidney everything else equal flattish to maybe slightly down if you just take the one week out but we’ll give you the hard guidance when we get to earnings in the quarter.
+ 
+
+
+Sidney Ho
+
+
+ 
+Okay.
+
+
+
+Margin Data:
+
+Lam delivered solid performance in the December quarter with our results exceeding the midpoint of guidance for all financial metrics.
+ 
+Operating margin and earnings per share exceeded the high end of the guidance range provided mainly due to our proactive management of our operating expenses.
+ 
+Overall memory revenue increased slightly from the September quarter with the combined Memory segment making up 79% of total system revenue.
+This was up sequentially by 8% from September and was slightly above the midpoint of our guidance.
+ 
+Gross margin for the quarter came in at 46.3%.
+As I always do I’ll remind you our actual gross margins are a function of several factors such as business volume product mix and customer concentration.
+Operating margin came in over the guidance range at 28.8% mainly as a result of the reduced spending within the quarter as well as gross margin that came in slightly above the midpoint of our guided range.
+ 
+The non-GAAP tax rate for the December quarter came in at 10% which was slightly lower than the long-term rate.
+We’re forecasting gross margin of 44.5% plus or minus one percentage point.
+Gross margins will decline sequentially due to customer concentration product mix and lower factory volumes.
+And as I just mentioned as we sit here today we expect the gross margin percentage will be at a low point in March relative to the rest of calendar year 2019.
+We’re forecasting operating margins of 25% plus or minus one percentage point.
+I was intrigued that you commented that March quarter should be the bottom in gross margin for the year.
+I’m just kind of curious is that because you expect March to be the low point in revenue? Are there mix drivers that helped gross margin going forward?
+ 
+
+
+Doug Bettinger
+
+
+ 
+I always say John there’s a variety of different things that impact gross margin.
+Not all of our tools have the same gross margin.
+And then customer concentration when you get the bigger customer spending more or it’s that more concentrated customers you might have a little bit of margin headwinds.
+All of those things are important to think about relative to the trend in gross margin and all of those are relevant to the comment I had about March being a low point.
+ 
+
+
+John Pitzer
+
+
+ 
+That’s helpful.
+As a follow-up question when you talk to your memory customers I’m kind of curious how do they look at CapEx? Are they waiting for their pricing/margins to bottom before they start getting comfortable about buying semi cap equipment? Or is it going to be in tandem? Or does one lead the other? And as a subset to that which thing is going to recover first from here onwards in NAND or DRAM? Thank you.
+ 
+
+
+Doug Bettinger
+
+
+ 
+Well.
+
+
+
+EPS Data:
+
+We also completed the strongest calendar year in the history of the company with $10.871 billion in revenues a 14% year-on-year increase at the same time we delivered growth in EPS of 27% and an increase in operating cash flows of more than 50% from the prior calendar year.
